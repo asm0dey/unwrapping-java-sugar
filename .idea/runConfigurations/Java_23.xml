@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Java 23" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="java23.Example" />
+    <module name="unwrapping-java-sugar" />
+    <option name="PROGRAM_PARAMETERS" value="logging.format" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="java23.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
